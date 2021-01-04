@@ -19,6 +19,7 @@ There is only two type of enemies:
       - What only has contact damage, to make it easy in the beginning of the game. It's only following the player, and has three points of health.
   - Skeleton
       - What is moving a bit slower than the slime, but it's also shot at the player. Also can deal contact damage, and have four points of health. It's for the later part of the game, to keep being challenging.
+
 The slime is relatively easy to defeat, so to increase the difficulty, the skeletons have a lower chance to spawn. In the beginning the chance is 10%, but with each scored point the chance is also increased by it. This means at 90 points there will be only skeletons spawn. 
 
 The player can deal damage by shooting. There are three type of weapons that is accessible:
