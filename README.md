@@ -51,4 +51,6 @@ Used in the SDK:
       - You can share the game on your page, where your friends can see.
   - App Links
       - Used in the share to get the link for the game. So it doesn't matter where it is hosted.
+  - Graph API
+      - Used to get prifile picture, and tried to use for posting, but i failed with that  
 
