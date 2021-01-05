@@ -30,7 +30,7 @@ The player can deal damage by shooting. There are three type of weapons that is 
   - Machinegun
       - This is the final weapon currently. Shoot a single bullet, at fast speed, and the bullets also fly faster.
  
-The weapons are gained after a certain point, and cant change manually between them. They also indicate the current health points of the player. Taking damage will downgrade your weapon thus losing a health point, and your current points will be down to zero. This means that lower tier enemies will spawn, so the difficulty is dynamic. Taking damage with the pistol equipped, will be game over. After the damage the player will be invincible for two seconds, but it has no visual indication. We also keep track of the highest point so taking damage will not reset what you already achieved. 
+The weapons are gained after a certain point, and cant change manually between them. They also indicate the current health points of the player. Taking damage will downgrade your weapon thus losing a health point, and your current points will be down to zero. This means that lower tier enemies will spawn, so the difficulty is dynamic. Taking damage with the pistol equipped, will be game over. After the damage the player will be invincible for two seconds, but it has no visual indication. We also keep track of the highest point so taking damage will not reset what you already achieved. The weapons also flip verrticaly if they would turn upside down. This aplies to the enemies, and the player model. 
 
 You can pause the game any time, and can start a new one. 
 
