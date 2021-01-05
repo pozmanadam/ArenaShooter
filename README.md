@@ -6,7 +6,9 @@ Launch link:
 https://pozmanadam.github.io/ArenaShooter/
 
 video links:
+
 part1 - https://www.youtube.com/watch?v=-Q3WMpV09zs
+
 part2 - https://www.youtube.com/watch?v=DG1jZPIEKws
 
 Created with:
