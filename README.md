@@ -13,7 +13,7 @@ Overview:
 
 The main goal is to create a game which is integrated into facebook. Using the Facebook SDK for unity. This means you can only play if you are logged into facebook, and granted permission for it. You can also share the for the game, advertising it. Or to be more direct, you can invite your friends from facebook to try the game out. Pausing the game will display your profile picture, with your current high score.
 
-The game is a simple 2D arena shooter. The only goal is to survive and score points. You can gain points by defeating enemies. There is only a single arena, where enemies spawn infinitely. The spawn points are in the four corners, which they can spawn. Only one can spawn each time, what is every three second. The spawned enemy type is randomized.
+The game is a simple 2D arena shooter. The only goal is to survive and score points. You can gain points by defeating enemies. There is only a single arena, where enemies spawn infinitely. The tiles of the arena is randomized at every new game, to give it a bit of variety. The spawn points are in the four corners, which they can spawn. Only one can spawn each time, what is every three second. The spawned enemy type is randomized.
 There is only two type of enemies:
   - Slime
       - What only has contact damage, to make it easy in the beginning of the game. It's only following the player, and has three points of health.
